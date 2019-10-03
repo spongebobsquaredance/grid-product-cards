@@ -22,7 +22,7 @@ h4 {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   margin: 0 auto;
   max-width: 1084px;
-  padding: 42px;
+  padding: 3%;
 }
 .product-card {
   background: #fff;
